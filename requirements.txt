@@ -3,7 +3,8 @@ asyncio
 pyrogram==1.0.1
 tgcrypto
 oauth2client
-psycopg2-binary
+#psycopg2-binary
+psycopg2
 sqlalchemy
 httplib2
 pySmartDL
